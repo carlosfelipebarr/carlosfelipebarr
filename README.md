@@ -2,7 +2,7 @@
 ### :computer: Atualmente estou estudando sistemas de computação na UFF e também sou estudante no programa Start Latam Powered By Accenture |
 ### :book: :construction: Estou aprendendo a desenvolver em Java Web |
 ### :speech_balloon: Podemos conversar sobre qualquer coisa que dê na telha. |
-### :grin: Aprendi que no inicio da carreira o Google é o gps do programador | 
+### :grin: Aprendi que o Google é o gps do programador | 
 
 
 
