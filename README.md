@@ -4,6 +4,8 @@
 ### 💬😄 Podemos conversar sobre tecnologia, filmes, comida e qualquer coisa que dê na telha. |
 ### ⚡ Aprendi que no inicio da carreira o Google é o gps do programador | 
 
+
+
 #### Sou carioca, tenho 22 anos me amarro em tecnologia e jogos; hqs e mangás também apesar de hoje em dia quase não ler. 
 
 
