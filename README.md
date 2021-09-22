@@ -5,4 +5,6 @@
 ### ⚡ Aprendi que no inicio da carreira o Google é o gps do programador | 
 
 #### Sou carioca, tenho 22 anos me amarro em tecnologia e jogos; hqs e mangás também apesar de hoje em dia quase não ler. 
+
+
 ## Uma das minhas frases favoritas é "Java é Java aqui e em qualquer lugar!" 
