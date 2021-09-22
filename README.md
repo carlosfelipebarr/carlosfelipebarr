@@ -10,4 +10,4 @@
 #### Sou carioca, tenho 22 anos e me amarro em tecnologia e jogos; hqs e mangás também apesar de hoje em dia quase não ler.  
 
 
-## Uma das minhas frases favoritas é "Java é Java aqui e em qualquer lugar! :earth_americas:" 
+## "Java é Java aqui e em qualquer lugar! :earth_americas:" 
