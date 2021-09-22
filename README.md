@@ -1,5 +1,5 @@
 # Olá sou Felipe 👋
-### :computer: Atualmente estou estudando sistemas de computação na UFF e estudo no programa Start Latam Powered By Accenture |
+### :computer: Atualmente estou estudando sistemas de computação na UFF e estudo também no programa Start Latam Powered By Accenture |
 ### :book: :construction: Estou estudando Java Web |
 ### :speech_balloon: Podemos conversar sobre tecnologia, filmes, comida e qualquer coisa que dê na telha. |
 ### :grin: Aprendi que no inicio da carreira o Google é o gps do programador | 
