@@ -1,11 +1,11 @@
 # Olá sou Carlos Felipe, mas pode me chamar de Felipe 👋
 ### :computer: Atualmente estou estudando sistemas de computação na UFF, também sou estudante no programa Start Latam Powered By Accenture 
 ### :book: Estou aprendendo a desenvolver em Java Web 
-### :speech_balloon: Podemos conversar sobre qualquer coisa que dê na telha. 
+### :camera: Sou fotográfo nas horas vagas 
 ### :grin: Aprendi que o Google é o gps do programador! 
 
 
-#### Sou carioca, tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia e jogos; hqs e mangás também porém hoje em dia quase não leio.
+#### :brazil: Sou carioca, tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia e jogos; hqs e mangás também porém hoje em dia quase não leio.
 
 
 ### ***class time {***
