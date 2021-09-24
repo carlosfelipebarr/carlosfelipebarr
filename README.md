@@ -9,8 +9,8 @@
 
 
 #### class time {
-#####      public static void main(String[] args) {
-#####          System.out.println("Carpe Diem");
+#####  public static void main(String[] args) {
+#####    System.out.println("Carpe Diem");
 
 
-# "Java é Java aqui e em qualquer lugar! :earth_americas:" <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="80" height="80" /> 
+# "Java é Java aqui e em qualquer lugar! :earth_americas:" <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="90" height="90" /> 
