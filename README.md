@@ -5,7 +5,7 @@
 ### :grin: Aprendi que o Google é o gps do programador! 
 
 
-#### Sou carioca, tenho 22 anos,  Curto sol e o mar e me amarro muito em tecnologia e jogos; hqs e mangás também apesar de hoje em dia quase não ler.
+#### Sou carioca, tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia e jogos; hqs e mangás também porém hoje em dia quase não leio.
 
 
 ### ***class time {***
