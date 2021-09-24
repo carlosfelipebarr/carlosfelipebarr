@@ -11,3 +11,5 @@
 
 
 ## "Java é Java aqui e em qualquer lugar! :earth_americas:" 
+
+![sonic](https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif)
