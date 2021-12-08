@@ -1,9 +1,7 @@
-# Olá sou Carlos Felipe, mas pode me chamar de Felipe 👋 :brazil:
-### :computer: Atualmente estou estudando sistemas de computação na UFF, também sou estudante no programa Start Latam Powered By Accenture 
-### :book: Estou aprendendo a desenvolver em Java Web 
-### :grin: Aprendi que o Google é o gps do programador! 
+# Hi My name is Felipe / Oi meu nome é Felipe 👋 :brazil:
+## :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o Google é o gps do desenvolvedor  
 
-#### Sou carioca, tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia, jogos e esportes; hqs e filmes também porém hoje em dia quase não vejo.
+### Sou carioca tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia, jogos, hqs, filmes e muitas outras paradas.
 
 ### ***class time {***
 ####  ***public static void main(String[] args) {***
