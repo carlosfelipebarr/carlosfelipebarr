@@ -1,7 +1,7 @@
 # Hi my name is Felipe / Oi meu nome é Felipe
-## :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o Google é o gps do desenvolvedor  
-
 ### Sou carioca tenho 22 anos, curto sol e o mar e me amarro muito em tecnologia, jogos, hqs, filmes e muitas outras paradas.
+
+### :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o Google é o gps do desenvolvedor  
 
 ### ***class time {***
 ####  ***public static void main(String[] args) {***
