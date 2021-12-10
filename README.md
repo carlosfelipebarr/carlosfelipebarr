@@ -7,8 +7,8 @@
 ####  ***public static void main(String[] args) {***
 ####    ***System.out.println("Carpe Diem");***
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## "Java is Java here and anywhere / Java é Java aqui e em qualquer lugar! :earth_americas:" <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="80" height="80" /> 
