@@ -1,7 +1,7 @@
 # Hi my name is Felipe / Oi meu nome é Felipe 🤙
 #### I am from Rio, i have 22 years old, i like so much technology and many other things / Sou carioca tenho 22 anos, me amarro muito em tecnologia e muitas outras paradas
 
-#### :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o Google é o gps do desenvolvedor  
+#### :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o google é o gps do desenvolvedor  
 
 ### 💻 Technologies / Tecnologias  
 <div>
