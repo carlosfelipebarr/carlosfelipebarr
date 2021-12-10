@@ -4,10 +4,11 @@
 #### :grin: Now i understand why the google is a gps for developer / Agora eu sei porque o Google é o gps do desenvolvedor  
 
 ### 💻 Technologies / Tecnologias  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <a href="https://github.com/felipecarvalhobarr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia"/>
+</div>
 ### ✉️ Contact / Contato
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/felipecarvalhobarr)](https://github.com/felipecarvalhobarr) 
