@@ -7,7 +7,7 @@
 ####  ***public static void main(String[] args) {***
 ####    ***System.out.println("Carpe Diem");***
 
-### * 💻 Technologies / Tecnologias  
+* 💻 Technologies / Tecnologias  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
