@@ -24,9 +24,8 @@
 ### ✉️ Contact / Contato
 <div>
   <a href="https://github.com/felipecarvalhobarr" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/felipecarvalhobarr" target=_blank></a>
+   <a href="https://www.linkedin.com/in/felipecarvbarr/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecarvbarr/" target=_blank></a>
 </div>
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecarvbarr/)](https://www.linkedin.com/in/felipecarvbarr/)
 
 ### "Java is Java here and anywhere / Java é Java aqui e em qualquer lugar! :earth_americas:" <img src="https://user-images.githubusercontent.com/89545100/134685961-eb4c293b-c48b-48be-927e-f872430ca658.gif" width="80" height="80" /> 
 
