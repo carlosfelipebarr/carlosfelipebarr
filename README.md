@@ -6,8 +6,8 @@
 ### 💻 Technologies / Tecnologias  
 <div>
   <a href="https://github.com/felipecarvalhobarr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipecarvalhobarr&show_icons=true&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipecarvalhobarr&layout=compact&theme=algolia"/>
 </div>
   
 <div>  
